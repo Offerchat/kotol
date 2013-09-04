@@ -1,1 +1,1 @@
-web: bin/hubot -a xmpp -n FuckingKOTOL -l kotol
+web: bin/hubot -a xmpp -n kotol
