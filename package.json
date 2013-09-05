@@ -26,13 +26,13 @@
   "dependencies": {
     "hubot":         ">= 2.6.0 < 3.0.0",
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
-    "optparse": "1.0.3",
-    "node-xmpp": "0.3.2",
-    "hubot-xmpp": "0.1.0",
+    "optparse": "1.0.4",
+    "node-xmpp": "0.6.1",
+    "hubot-xmpp": "0.1.7",
     "htmlparser": "1.7.6",
     "soupselect": "0.2.0",
-    "underscore": "1.3.3",
-    "underscore.string": "2.2.0rc",
+    "underscore": "1.5.1",
+    "underscore.string": "2.3.3",
     "fucking-kotol": "1.0.1"
   },
 
