@@ -33,7 +33,8 @@
     "soupselect": "0.2.0",
     "underscore": "1.5.1",
     "underscore.string": "2.3.3",
-    "fucking-kotol": "1.0.1"
+    "fucking-kotol": "1.0.1",
+    "hubot-skype" : "0.0.2"
   },
 
   "engines": {
